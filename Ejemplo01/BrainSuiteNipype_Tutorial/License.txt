@@ -1,0 +1,5 @@
+The files 2523412.nii.gz, 2523412.dwi.nii.gz, 2523412.dwi.bvec, and 2523412.dwi.bval are part of the Beijing Enhanced dataset, released by Beijing Normal University as part of the International Neuroimaging Datasharing Initiative (INDI) under a Creative Commons Attribution-NonCommerical 3.0 Unported License (CC-BY-NC).
+
+More information on the complete dataset is available online at http://fcon_1000.projects.nitrc.org/indi/retro/BeijingEnhanced.html, and it can be downloaded from http://www.nitrc.org/ir/app/template/XDATScreen_report_xnat_projectData.vm/search_element/xnat:projectData/search_field/xnat:projectData.ID/search_value/beijing_enh.
+
+To view a copy of the CC-BY-NC license, visit https://creativecommons.org/licenses/by-nc/3.0/deed.en_US or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
